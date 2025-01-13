@@ -41,12 +41,6 @@
 - **Tools and Platforms:** Azure DevOps, Docker, Kubernetes, RabbitMQ, SpecFlow, Grafana, Github Actions
 - **Databases:** SQL Server, Redis, ElasticSearch, MongoDB, Postgres
 
-<!-- Certifications section -->
-## Certifications
-
-- Microsoft Azure Fundamentals (2023)
-- AWS Solution Architect - Associate (2022)
-
 <!-- Projects section -->
 ## Projects
 
