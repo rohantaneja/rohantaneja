@@ -5,9 +5,11 @@
 
 ## Currently
 
-Technical Founder and CTO at **MESO Lab**, and AI Researcher at the **ADAPT Centre**. We build MESO, a planning tool for teachers: describe what you are teaching, and it gives you the lessons, resources and assessments to match, built around the official curriculum. The Government of Ireland, Trinity College Dublin and the ADAPT Centre back the work, and schools in Ireland are using it in pilots.
+Technical Founder and CTO at **MESO Lab**, and AI Researcher at the **ADAPT Centre**, Trinity College Dublin.
 
-I look after the parts that make it trustworthy: finding the right curriculum material before anything is written, keeping sign-in simple and reliable, and getting new work safely into teachers' hands.
+**MESO** is an AI planning platform for teachers. A teacher describes what they are teaching, and MESO builds the unit plan, lessons, resources and assessments around the official curriculum, ready to edit and use. It is built to work across curricula and school systems, and it is backed by the Government of Ireland, Trinity College Dublin and the ADAPT Centre.
+
+I lead the engineering: the product, the AI behind it, and the infrastructure it runs on.
 
 ## What I work with
 
